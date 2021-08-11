@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filipponova
-- 👀 I’m interested in Finops and Cloud Cost Optimization.
+- 👀 I’m interested in Finops, Cloud Cost Optimization and Cloud Security.
 - 🌱 I’m currently learning Python, SQL and Data Analysis.
 - 💞️ I’m looking to collaborate on open source projects with focus in Cloud Solutions.
 - 📫 How to reach me filippodurao@gmail.com
