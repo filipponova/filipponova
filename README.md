@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filipponova
 - 👀 I’m interested in Architecture, Automation, Containers and Cloud Security.
-- 🌱 I’m currently learning Python and K8s.
+- 🌱 I’m currently learning Golang and K8s.
 - 💞️ I’m looking to collaborate on open source projects with focus in Cloud Solutions.
 - 📫 How to reach me filippodurao@gmail.com
 
