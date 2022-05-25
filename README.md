@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @filipponova
 - 👀 I’m interested in DevSecOps and Application Security.
 - 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on open source projects with focus in Cloud Solutions, Automation and Application Security.
+- 💞️ I’m looking to collaborate on open source projects with a focus on Application Security and SDLC.
 - 📫 How to reach me filippodurao@gmail.com
 
 <!---
