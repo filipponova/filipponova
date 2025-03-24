@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @filipponova
 - 👀 I’m interested in Kubernetes, IaC, GitOps, Cloud and Security.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on open source projects that improve the people life.
+- 💞️ I want to collaborate on open-source projects that improve people's lives.
 - 📫 How to reach me filippodurao@gmail.com
 
 <!---
